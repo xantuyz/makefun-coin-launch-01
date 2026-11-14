@@ -1,0 +1,10 @@
+# Secrets — never commit
+makefun-keypair.json
+*-keypair.json
+*.key
+.env
+# Research scratch (not part of the submission repo)
+research/
+# OS / editor
+.DS_Store
+node_modules/
